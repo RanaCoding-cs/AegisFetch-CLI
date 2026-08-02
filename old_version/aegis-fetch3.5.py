@@ -28,7 +28,7 @@ ROOT_STORAGE_DIR = "/sdcard/AegisDownloads"
 HISTORY_FILE = "aegis_fetch_history.json"
 
 # 🔒 Auto-Updating Encrypted SHA-256 Password Hash (Default: admin123)
-ADMIN_PASSWORD_HASH = "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918"
+ADMIN_PASSWORD_HASH = "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9"
 
 # Terminal Banner
 BANNER = f"""{Fore.CYAN}{Style.BRIGHT}
