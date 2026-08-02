@@ -51,7 +51,7 @@ pip install yt-dlp colorama
 termux-setup-storage
 
 ২. প্রোগ্রামটি রান করুন:
-python aegisfetch.py
+python aegis-fetch3.5.py
 
 ৩. মেনু ব্যবহার নিয়ম:
 ​মেনু থেকে পছন্দমতো মোড (1-4) সিলেক্ট করুন।
