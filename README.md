@@ -1,4 +1,4 @@
-# 📥 AegisFetch-CLI v3.5 (Pro Edition)
+# 📥 AEGISFETCH-CLI v3.7 (PRO EDITION - AUTO-ENCRYPTED SECURITY)
 
 **AegisFetch-CLI** হলো টার্মিনাল (Termux/Linux/Windows)-ভিত্তিক একটি অ্যাডভান্সড, মাল্টি-প্ল্যাটফর্ম মিডিয়া ডাউনলোডার ও সিকিউরিটি টুল। Python ও `yt-dlp` লাইব্রেরির ওপর ভিত্তি করে তৈরি এই টুলের মাধ্যমে YouTube, Facebook, Instagram, TikTok সহ ১,০০০+ ওয়েবসাইট থেকে ভিডিও বা অডিও সরাসরি স্মার্টফোনের রুট ইন্টারনাল স্টোরেজে ডাউনলোড করা যায়। 
 
@@ -29,36 +29,46 @@
 ## 📁 প্রজেক্ট ফাইল স্ট্রাকচার (File Structure)
 
 ```text
-aegisfetch-cli/
-├── aegisfetch.py              # প্রধান পাইথন সোর্স কোড (Main Application)
+AegisFetch-CLI/
+├── AegisFetch-CLI-v3.7.py     # প্রধান পাইথন সোর্স কোড (Main Application)
 ├── aegis_fetch_history.json   # ডাউনলোড হিস্ট্রি লগার (Auto-generated)
-├── requirements.txt
+├── requirements.txt           # মডিউল ইন্সটল (Module Install requirement txt file)
 ├── links.txt                  # বাল্ক ডাউনলোডের জন্য ইউআরএল লিস্ট (Optional)
 └── README.md                  # প্রজেক্টের অফিসিয়াল ডকুমেন্টেশন
+```
+---
 
-📦 প্রয়োজনীয় প্যাকেজ ও ইনস্টলেশন (Package Management)
+##📦 প্রয়োজনীয় প্যাকেজ ও ইনস্টলেশন (Package Management)
 ​প্রোগ্রামটি রান করার আগে সিস্টেমে Python, FFmpeg এবং প্রয়োজনীয় লাইব্রেরি ইনস্টল থাকতে হবে।
 ​টার্মাক্স (Termux)-এর জন্য:
-# সিস্টেম আপডেট ও প্রয়োজনীয় প্যাকেজ ইনস্টল
+## সিস্টেম আপডেট ও প্রয়োজনীয় প্যাকেজ ইনস্টল
+```text
 pkg update && pkg upgrade -y
 pkg install python ffmpeg -y
-
-# পাইথন প্যাকেজ ইনস্টল
+```
+## পাইথন প্যাকেজ ইনস্টল
+```text
 pip install yt-dlp colorama
-
-🚀 ব্যবহার করার নিয়ম (How to Use)
-​১. স্টোরেজ পারমিশন দিন (প্রথমবার ব্যবহারের জন্য):
+```
+---
+##🚀 ব্যবহার করার নিয়ম (How to Use)
+#১. স্টোরেজ পারমিশন দিন (প্রথমবার ব্যবহারের জন্য):
+```text
 termux-setup-storage
-
-২. প্রোগ্রামটি রান করুন:
+```
+---
+#২. প্রোগ্রামটি রান করুন:
+```text
 python aegis-fetch3.5.py
-
-৩. মেনু ব্যবহার নিয়ম:
-​মেনু থেকে পছন্দমতো মোড (1-4) সিলেক্ট করুন।
-​সামাজিক যোগাযোগ মাধ্যম বা ভিডিও প্ল্যাটফর্ম থেকে যেকোনো লিঙ্ক কপি করে পেস্ট করুন।
-​সিকিউরিটি ও হিস্ট্রি মেনুতে ঢুকতে 5 চাপুন (ডিফল্ট এডমিন পাসওয়ার্ড: admin123)।
-
-​👨‍💻 ডেভলপার তথ্য (Developer Info)
-​Developer: MD IMRAN HOSSEN (Rana)
-​GitHub: RanaCoding-cs
-​WhatsApp: +8801636690865
+```
+---
+#৩. মেনু ব্যবহার নিয়ম:
+- মেনু থেকে পছন্দমতো মোড (1-4) সিলেক্ট করুন।
+- সামাজিক যোগাযোগ মাধ্যম বা ভিডিও প্ল্যাটফর্ম থেকে যেকোনো লিঙ্ক কপি করে পেস্ট করুন।
+- সিকিউরিটি ও হিস্ট্রি মেনুতে ঢুকতে 5 চাপুন (ডিফল্ট এডমিন পাসওয়ার্ড: admin123)।
+---
+##​👨‍💻 ডেভলপার তথ্য (Developer Info)
+- **Developer:** MD IMRAN HOSSEN (Rana)
+- **GitHub:** RanaCoding-cs
+- **WhatsApp:** +8801636690865
+---
