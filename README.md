@@ -52,7 +52,7 @@ pkg install python ffmpeg -y
 pip install yt-dlp colorama
 ```
 ---
-## 🚀 ব্যবহার করার নিয়ম (How to Use)
+# 🚀 ব্যবহার করার নিয়ম (How to Use)
 # ১. স্টোরেজ পারমিশন দিন (প্রথমবার ব্যবহারের জন্য):
 ```text
 termux-setup-storage
@@ -60,7 +60,7 @@ termux-setup-storage
 ---
 # ২. প্রোগ্রামটি রান করুন:
 ```text
-python aegis-fetch3.5.py
+python AegisFetch-CLI-v3.7.py
 ```
 ---
 # ৩. মেনু ব্যবহার নিয়ম:
@@ -68,7 +68,7 @@ python aegis-fetch3.5.py
 - সামাজিক যোগাযোগ মাধ্যম বা ভিডিও প্ল্যাটফর্ম থেকে যেকোনো লিঙ্ক কপি করে পেস্ট করুন।
 - সিকিউরিটি ও হিস্ট্রি মেনুতে ঢুকতে 5 চাপুন (ডিফল্ট এডমিন পাসওয়ার্ড: admin123)।
 ---
-##​👨‍💻 ডেভলপার তথ্য (Developer Info)
+##​ 👨‍💻 ডেভলপার তথ্য (Developer Info)
 - **Developer:** MD IMRAN HOSSEN (Rana)
 - **GitHub:** RanaCoding-cs
 - **WhatsApp:** +8801636690865
