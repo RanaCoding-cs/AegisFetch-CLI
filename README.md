@@ -68,9 +68,7 @@ python AegisFetch-CLI-v3.7.py
 - সামাজিক যোগাযোগ মাধ্যম বা ভিডিও প্ল্যাটফর্ম থেকে যেকোনো লিঙ্ক কপি করে পেস্ট করুন।
 - সিকিউরিটি ও হিস্ট্রি মেনুতে ঢুকতে 5 চাপুন (ডিফল্ট এডমিন পাসওয়ার্ড: admin123)।
 ---
----
-##​ 👨‍💻 ডেভলপার তথ্য (Developer Info)
+## 👨‍💻 ডেভলপার তথ্য (Developer Info)
 - **Developer:** MD IMRAN HOSSEN (Rana)
 - **GitHub:** RanaCoding-cs
 - **WhatsApp:** +8801636690865
----
